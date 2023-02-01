@@ -1,0 +1,15 @@
+{
+  "name": "dynamics-lib",
+  "version": "1.0.1",
+  "main": "./index.js",
+  "description": "Dynamics API libraries",
+  "keywords": [
+    "dynamics"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Developer Backend",
+    "email": "back-end@dynamics-vr.com",
+    "url": "https://www.dynamics-vr.com" 
+  }
+}
