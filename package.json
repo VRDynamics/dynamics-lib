@@ -1,6 +1,6 @@
 {
   "name": "dynamics-lib",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "main": "./index.js",
   "description": "Dynamics API libraries",
   "keywords": [
@@ -11,5 +11,10 @@
     "name": "Developer Backend",
     "email": "back-end@dynamics-vr.com",
     "url": "https://www.dynamics-vr.com" 
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VRDynamics/dynamics-lib.git"
+  },
+  "homepage": "https://github.com/VRDynamics/dynamics-lib.git/"
 }
