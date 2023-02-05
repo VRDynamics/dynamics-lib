@@ -1,4 +1,5 @@
 const AES = require('mysql-aes');
+const { setDataCreateLogMain } = require('../LogMain/setDataCreate');
 
 /**
  * @param value
