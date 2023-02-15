@@ -17,7 +17,7 @@ exports.generateAccessToken = async(user) => {
     let resData = null;
     let response = null;
     
-    const accessToken = (req.headers['Authorization']) ? req.headers['Authorization'] : req.headers['authorization']; ;
+    const accessToken = (req.headers['Authorization']) ? req.headers['Authorization'] : req.headers['authorization'];
 
     if(!accessToken) {
         resError = true;
