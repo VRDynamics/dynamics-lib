@@ -43,7 +43,7 @@ const model = (sequelize, DataTypes) => {
         indexes: [
             { unique: false, fields: ["created_by"] },
         ],
-        tableName: "log_main"
+        tableName: "logMain"
     });
 }
 
